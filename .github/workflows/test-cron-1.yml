@@ -1,4 +1,4 @@
-name: Test Cron
+name: Test Cron 1
 
 on:
   schedule:
